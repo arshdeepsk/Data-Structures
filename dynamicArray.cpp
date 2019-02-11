@@ -128,7 +128,7 @@ int main(){
 			case 9: cout<<endl<<"BYE!";
 					exit(0);
 				break;
-			default: cout<<endl<<"Invalid Imput!!";
+			default: cout<<endl<<"Invalid Input!!";
 		}
 	}
 	
